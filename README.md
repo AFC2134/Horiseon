@@ -1,6 +1,6 @@
 # Horiseon
 ch-1
-# Code Refactor Starter Code
+# Original code to be refactored 
 # <!DOCTYPE html>
 <html lang="en-us">
 
