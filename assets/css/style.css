@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* company name banner and navigation bar*/
 body {
     background-color: #d9dcd6;
 }
@@ -49,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* hero-image */
 .hero {
     height: 800px;
     width: 100%;
@@ -73,6 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
 
 .benefits {
     margin-right: 20px;
@@ -162,6 +165,7 @@ p {
     max-width: 150px;
 }
 
+/* footer and copyrite Horiseon inc. */
 .footer {
     padding: 30px;
     clear: both;
