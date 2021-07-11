@@ -2,14 +2,16 @@
 # Horiseon Main Page
 
 ## Purpose
-
+Search Engine Optimization.
+Online Reputation Management
+Social Media Marketing
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-
+https://afc2134.github.io/Horiseon/
 
 ## Contribution
 contributions by Alex Cooney
